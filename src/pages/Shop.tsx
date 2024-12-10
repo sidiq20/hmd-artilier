@@ -3,7 +3,7 @@ import { Search } from 'lucide-react';
 import ProductCard from '../components/ProductCard';
 import { products } from '../data/products';
 
-const categories = ['All', 'Running', 'Casual', 'Sport', 'Formal'];
+const categories = ['All', 'Casual', 'Formal', 'belt'];
 const genders = ['All', 'Male', 'Female', 'Unisex'];
 
 export default function Shop() {
@@ -74,7 +74,7 @@ export default function Shop() {
         </div>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 gap-6">
         {filteredProducts.map((product) => (
           <ProductCard key={product.id} product={product} />
         ))}

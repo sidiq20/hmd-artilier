@@ -9,12 +9,12 @@ const slides = [
     description: "Handcrafted excellence for the modern individual"
   },
   {
-    image: "assets/home1.jpg",
+    image: "assets/home31.jpg",
     title: "Exclusive Collections",
     description: "Where style meets craftsmanship"
   },
   {
-    image: "assets/home1.jpg",
+    image: "assets/home24.jpg",
     title: "Bespoke Designs",
     description: "Your unique style, our expertise"
   }
@@ -84,7 +84,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="relative h-96 group overflow-hidden rounded-lg">
             <img
-              src="assets/home1.jpg"
+              src="assets/home35.jpg"
               alt="Men's Collection"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
             />
@@ -114,7 +114,7 @@ export default function Home() {
           </div>
           <div className="relative h-96 group overflow-hidden rounded-lg">
             <img
-              src="assets/home1.jpg"
+              src="assets/home27.jpg"
               alt="Limited Edition"
               className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
             />
