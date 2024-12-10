@@ -26,6 +26,7 @@ function App() {
         <Route path="/wishlist" element={<Wishlist />} />
         <Route path="/about" element={<About />} />
         <Route path="/returns" element={<Returns />} />
+        <Route path="*" element={<Home />} />
       </Routes>
     </Router>
   );

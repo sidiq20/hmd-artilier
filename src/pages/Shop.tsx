@@ -4,7 +4,7 @@ import ProductCard from '../components/ProductCard';
 import { products } from '../data/products';
 
 const categories = ['All', 'Casual', 'Formal', 'belt'];
-const genders = ['All', 'Male', 'Female', 'Unisex'];
+const genders = ['All', 'Male', 'Female', 'babies', 'Unisex'];
 
 export default function Shop() {
   const [searchQuery, setSearchQuery] = useState('');

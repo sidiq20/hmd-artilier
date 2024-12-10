@@ -123,7 +123,7 @@ export default function Home() {
                 to="/shop"
                 className="text-white text-2xl font-bold hover:underline"
               >
-                Limited Edition
+                Unisex Edition
               </Link>
             </div>
           </div>
