@@ -5,9 +5,9 @@ import { motion } from 'framer-motion';
 import SocialIcons from '../components/SocialIcons';
 
 // TODO: Replace these with your EmailJS credentials
-const EMAILJS_SERVICE_ID = 'YOUR_SERVICE_ID';
-const EMAILJS_TEMPLATE_ID = 'YOUR_TEMPLATE_ID';
-const EMAILJS_PUBLIC_KEY = 'YOUR_PUBLIC_KEY';
+const EMAILJS_SERVICE_ID = 'service_05anwes';
+const EMAILJS_TEMPLATE_ID = 'template_7p6mz8v';
+const EMAILJS_PUBLIC_KEY = '7Nzktq5nQu-X4cmOu';
 
 export default function Contact() {
   const [formData, setFormData] = useState({

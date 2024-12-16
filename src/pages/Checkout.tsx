@@ -58,7 +58,7 @@ export default function Checkout() {
       `\nTotal: ₦${total.toFixed(2)}`;
 
     const encodedMessage = encodeURIComponent(message);
-    const whatsappUrl = `https://wa.me/YOUR_PHONE_NUMBER?text=${encodedMessage}`;
+    const whatsappUrl = `https://wa.me/+2348121939517?text=${encodedMessage}`;
 
     clearCart();
     window.open(whatsappUrl, '_blank');

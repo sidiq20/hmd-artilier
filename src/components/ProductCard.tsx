@@ -27,7 +27,7 @@ export default function ProductCard({ product }: ProductCardProps) {
         <div className="aspect-[16/9] overflow-hidden">
           <img
             src={product.image}
-            alt={product.name}
+            // alt={product.name}
             loading="lazy"
             className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
           />
@@ -47,9 +47,9 @@ export default function ProductCard({ product }: ProductCardProps) {
       <div className="p-4">
         <div className="flex justify-between items-start">
           <div>
-            <h3 className="text-lg font-semibold text-brown-100 line-clamp-2">
+            {/* <h3 className="text-lg font-semibold text-brown-100 line-clamp-2">
               {product.name}
-            </h3>
+            </h3> */}
             <p className="text-brown-300">₦{product.price.toFixed(2)}</p>
           </div>
           <WishlistButton product={product} />

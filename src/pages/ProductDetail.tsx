@@ -96,10 +96,10 @@ export default function ProductDetail() {
             />
           </div>
 
-          <div className="mt-8">
+          {/* <div className="mt-8">
             <h2 className="text-lg font-medium text-brown-100 mb-2">Description</h2>
             <p className="text-brown-300">{product.description}</p>
-          </div>
+          </div> */}
 
           <div className="mt-8 space-y-4">
             <motion.button
