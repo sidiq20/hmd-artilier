@@ -1,7 +1,7 @@
 export const products = [
   {
     id: 1,
-    name: "Air Max ",
+    name: "Shoe 1",
     price: 40000,
     image: "/assets/home1.jpg",
     category: "formal",
@@ -11,7 +11,7 @@ export const products = [
   },
   {
     id: 2,
-    name: "Classic Leather",
+    name: "Sandal 2",
     price: 30000,
     image: "/assets/home2.jpg",
     category: "casual",
@@ -21,7 +21,7 @@ export const products = [
   },
   {
     id: 3,
-    name: "Ultra Boost",
+    name: "Palm 3",
     price: 20000.,
     image: "/assets/home3.jpg",
     category: "casual",
@@ -31,7 +31,7 @@ export const products = [
   },
   {
     id: 4,
-    name: "Ultra Boost",
+    name: "Sandal 4",
     price: 30000.00,
     image: "/assets/home4.jpg",
     category: "casual",
@@ -41,7 +41,7 @@ export const products = [
   },
   {
     id: 5,
-    name: "Ultra Boost",
+    name: "Palm 5",
     price: 20000.00,
     image: "/assets/home5.jpg",
     category: "casual",
@@ -51,7 +51,7 @@ export const products = [
   },
   {
     id: 6,
-    name: "Ultra Boost",
+    name: "Palm 6",
     price: 30000.00,
     image: "/assets/home6.jpg",
     category: "casual",
@@ -61,7 +61,7 @@ export const products = [
   },
   {
     id: 7,
-    name: "Ultra Boost",
+    name: "palm 7",
     price: 20000.00,
     image: "/assets/home7.jpg",
     category: "casual",
@@ -71,7 +71,7 @@ export const products = [
   },
   {
     id: 8,
-    name: "Ultra Boost",
+    name: "Shoe 8",
     price: 35000.00,
     image: "/assets/home8.jpg",
     category: "formal",
@@ -81,7 +81,7 @@ export const products = [
   },
   {
     id: 9,
-    name: "Ultra Boost",
+    name: "Palm 9",
     price: 25000.99,
     image: "/assets/home9.jpg",
     category: "casual",
@@ -91,7 +91,7 @@ export const products = [
   },
   {
     id: 10,
-    name: "Ultra Boost",
+    name: "Shoe 10",
     price: 35000.00,
     image: "/assets/home10.jpg",
     category: "formal",
@@ -111,7 +111,7 @@ export const products = [
   // },
   {
     id: 12,
-    name: "Ultra Boost",
+    name: "Half Shoe 12",
     price: 30000.00,
     image: "/assets/home12.jpg",
     category: "formal", 
@@ -132,7 +132,7 @@ export const products = [
  
   {
     id: 14,
-    name: "Ultra Boost",
+    name: "Half Shoe 14",
     price: 30000.00,
     image: "/assets/home14.jpg",
     category: "formal",
@@ -142,7 +142,7 @@ export const products = [
   },
   {
     id: 15,
-    name: "Ultra Boost",
+    name: "palm 15",
     price: 25000.00,
     image: "/assets/home15.jpg",
     category: "casual",
@@ -152,7 +152,7 @@ export const products = [
   },
   {
     id: 16,
-    name: "Ultra Boost",
+    name: "shoe 16",
     price: 20000.00,
     image: "/assets/home16.jpg",
     category: "casual",
@@ -162,7 +162,7 @@ export const products = [
   },
   {
     id: 17,
-    name: "Ultra Boost",
+    name: "Palm 17",
     price: 25000.00,
     image: "/assets/home17.jpg",
     category: "casual",
@@ -172,7 +172,7 @@ export const products = [
   },
   {
     id: 18,
-    name: "Ultra Boost",
+    name: "Half Shoe 18",
     price: 30000.00,
     image: "/assets/home18.jpg",
     category: "formal",
@@ -182,7 +182,7 @@ export const products = [
   },
   {
     id: 19,
-    name: "Ultra Boost",
+    name: "Shoe 19",
     price: 35000.00,
     image: "/assets/home19.jpg",
     category: "formal",
@@ -192,7 +192,7 @@ export const products = [
   },
   {
     id: 20,
-    name: "Ultra Boost",
+    name: "chelsea boot 20",
     price: 40000.00,
     image: "/assets/home20.jpg",
     category: "formal",
@@ -202,7 +202,7 @@ export const products = [
   },
   {
     id: 21,
-    name: "Ultra Boost",
+    name: "palm 21",
     price: 25000.00,
     image: "/assets/home21.jpg",
     category: "casual",
@@ -212,7 +212,7 @@ export const products = [
   },
   {
     id: 22,
-    name: "Ultra Boost",
+    name: "palm 22",
     price: 20000.00,
     image: "/assets/home22.jpg",
     category: "casual",
@@ -222,7 +222,7 @@ export const products = [
   },
   {
     id: 23,
-    name: "Ultra Boost",
+    name: "Shoe 23",
     price: 30000.00,
     image: "/assets/home23.jpg",
     category: "casual",
@@ -232,7 +232,7 @@ export const products = [
   },
   {
     id: 24,
-    name: "Ultra Boost",
+    name: "palm 24",
     price: 25000.00,
     image: "/assets/home24.jpg",
     category: "casaul",
@@ -242,7 +242,7 @@ export const products = [
   },
   {
     id: 25,
-    name: "Ultra Boost",
+    name: "palm 25",
     price: 25000.00,
     image: "/assets/home25.jpg",
     category: "casual",
@@ -252,7 +252,7 @@ export const products = [
   },
   {
     id: 26,
-    name: "Ultra Boost",
+    name: "chelsea boot 26",
     price: 40000.00,
     image: "/assets/home26.jpg",
     category: "formal",
@@ -262,7 +262,7 @@ export const products = [
   },
   {
     id: 27,
-    name: "Ultra Boost",
+    name: "Palm 27",
     price: 30000.00,
     image: "/assets/home27.jpg",
     category: "csual",
@@ -272,7 +272,7 @@ export const products = [
   },
   {
     id: 28,
-    name: "Ultra Boost",
+    name: "Shoe 28",
     price: 35000.00,
     image: "/assets/home28.jpg",
     category: "formal",
@@ -282,7 +282,7 @@ export const products = [
   },
   {
     id: 30,
-    name: "Ultra Boost",
+    name: "shoe 30",
     price: 35000.00,
     image: "/assets/home30.jpg",
     category: "formal",
@@ -292,7 +292,7 @@ export const products = [
   },
   {
     id: 31,
-    name: "Ultra Boost",
+    name: "belt 31",
     price: 15000.00,
     image: "/assets/home31.jpg",
     category: "belt",
@@ -302,7 +302,7 @@ export const products = [
   },
   {
     id: 32,
-    name: "Ultra Boost",
+    name: "belt 32",
     price: 15000.00,
     image: "/assets/home32.jpg",
     category: "belt",
@@ -312,7 +312,7 @@ export const products = [
   },
   {
     id: 33,
-    name: "Ultra Boost",
+    name: "belt 33",
     price: 15000.00,
     image: "/assets/home33.jpg",
     category: "belt",
@@ -322,7 +322,7 @@ export const products = [
   },
   {
     id: 34,
-    name: "Ultra Boost",
+    name: "belt 34",
     price: 15000.00,
     image: "/assets/home34.jpg",
     category: "belt",
@@ -332,7 +332,7 @@ export const products = [
   },
   {
     id: 35,
-    name: "Ultra Boost",
+    name: "belt 35",
     price: 15000.00,
     image: "/assets/home35.jpg",
     category: "belt",
@@ -342,7 +342,7 @@ export const products = [
   },
   {
     id: 36,
-    name: "Ultra Boost",
+    name: "belt 36",
     price: 15000.00,
     image: "/assets/home36.jpg",
     category: "belt",
@@ -352,7 +352,7 @@ export const products = [
   },
   {
     id: 36,
-    name: "Ultra Boost",
+    name: "belt 36",
     price: 15000.00,
     image: "/assets/home36.jpg",
     category: "belt",
@@ -362,7 +362,7 @@ export const products = [
   },
   {
     id: 36,
-    name: "Ultra Boost",
+    name: "belt 36",
     price: 15000.00,
     image: "/assets/home36.jpg",
     category: "belt",
@@ -372,7 +372,7 @@ export const products = [
   },
   {
     id: 37,
-    name: "Ultra Boost",
+    name: "belt 37",
     price: 15000.00,
     image: "/assets/home37.jpg",
     category: "belt",
